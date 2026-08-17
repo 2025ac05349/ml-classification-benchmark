@@ -164,8 +164,8 @@ of predictions.
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/2025ac05349/ml-classification-benchmark.git
+cd ml-classification-benchmark
 pip install -r requirements.txt
 
 jupyter notebook model/train_models.ipynb   # run all cells to regenerate model/saved/ and test_data.csv
